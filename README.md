@@ -1,4 +1,4 @@
 # Python tutorial
 This is lecture python from [link](https://youtu.be/ix9cRaBkVe0?si=_8iYO0tozGLvVKD1)
 
-My ccurrent: https://youtu.be/ix9cRaBkVe0?si=PHfSOgrmhH2FB9ZH&t=1962
+My ccurrent: https://youtu.be/ix9cRaBkVe0?si=0NvHHf1rCph7mmFu&t=3107
